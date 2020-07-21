@@ -1,4 +1,4 @@
-# Show-off-repo
+# Web scrapping
 To show the work to potential employer. 
 Very small percentage of work is included. 
 If you (potential employer) would like to see more code samples. Please email me(nthakk28@uic.edu).
